@@ -1,2 +1,2 @@
 # KernelGalaxy
-Custol Kernel From Galaxy A04s
+Custom Kernel From Galaxy A04s
